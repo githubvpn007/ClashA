@@ -2,6 +2,14 @@
 ClashA，ClashA说明，ClashA使用说明，ClashA配置，ClashA教程，vpn代理  
 
 
+<br/>
+
+## [更多教程请看这里](https://github.com/githubvpn007/v2rayNvpn#%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
+## [更多工具下载看这里](https://github.com/githubvpn007/ProxyTool)
+
+<br/>
+
+
 简介
 ----
 
@@ -96,8 +104,7 @@ ClashA 是目前在 Andorid 上表现较为出色的图形化 Clash 分支。
 <br/>
 
 
-## [更多教程请看这里](https://github.com/githubvpn007/v2rayNvpn#%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
-## [更多工具下载看这里](https://github.com/githubvpn007/ProxyTool)
+
 
 
 
